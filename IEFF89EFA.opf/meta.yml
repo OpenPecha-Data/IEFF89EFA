@@ -1,0 +1,47 @@
+id: IEFF89EFA
+ocr_import_info:
+  timestamp: '2023-07-10T02:39:25.533305+00:00'
+  batch_id: batch-2e3f
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: PechaJobs
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-07-10 02:59:50.556086+00:00
+last_modified: 2023-07-10 02:59:50.556094+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG3704
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG3704
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: དབུས་མཐའ་རྣམ་འབྱེད་ཀྱི་འགྲེལ་པ་འོད་ཟེར་ཕྲེང་བ།
+  languages:
+  - bo
+  author: འཇུ་མི་ཕམ་འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9964220092523188
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I1KG3740:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG3740
+      total_pages: 190
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG3740.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9964220092523188
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
